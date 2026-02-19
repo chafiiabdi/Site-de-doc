@@ -6,7 +6,7 @@ Histoire
 Cette section ne s'appuie pas, ou pas assez, sur des sources secondaires ou tertiaires indépendantes du sujet. Le texte peut contenir des analyses inexactes ou inédites de sources primaires.
 Pour l'améliorer, ajoutez-en, ou placez des modèles {{Source secondaire souhaitée}} ou {{Source secondaire nécessaire}} sur les passages mal sourcés. (février 2023)
 
-![IGN](/docs/img/ign.png)
+[Image](./img/im.png)
 
 
 L'IGN est créé par décret le 26 juin 1940 (signé par Albert Lebrun et Philippe Pétain) et succède au Service géographique de l'Armée (SGA), fondé en 1887 et dissous en 1940[4]. Le fonds de cartes anciennes est alors divisé en deux lots : un qui reste à l'Institut et l'autre qui rejoint les archives militaires de Vincennes[5]. Le général Louis Hurault, qui fut à l'origine de ces modifications, est le premier directeur de l'IGN[6]. Il en négocie les statuts et tente, en vain, de récupérer le matériel saisi par les Allemands[6]. Une loi de dix articles est signée le 14 septembre 1940 afin de définir les fonctions de l'IGN[7]. Les statuts sont signés le 8 avril 1941. Ils mettent notamment en place l'École nationale des sciences géographiques afin de former des ingénieurs cartographes[8].
