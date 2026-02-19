@@ -48,6 +48,8 @@ Working Directory → Staging Area → Commit
 
 4️⃣ Créer un commit
 
+4️⃣ Ajouter un image
+
 git commit -m "premier commit"
 
 🎯 Rôle

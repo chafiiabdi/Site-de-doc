@@ -3,3 +3,23 @@
 ## les sources 
 
 [Documentation](./ign.md)
+
+## L'Institut national de l'information géographique et forestière (IGN)
+
+L'Institut national de l'information géographique et forestière (IGN) est un établissement public à caractère administratif ayant pour mission d'assurer la production, l'entretien et la diffusion de l'information géographique de référence en France[1]. Avant l'intégration de l'inventaire forestier national le 1er janvier 2012, il était nommé Institut géographique national, dénomination dont il conserve le sigle IGN[2], institut lui-même créé par un décret du 26 juin 1940 succédant au Service géographique de l'Armée (SGA), dissout en 1940[3].
+Histoire
+
+Cette section ne s'appuie pas, ou pas assez, sur des sources secondaires ou tertiaires indépendantes du sujet. Le texte peut contenir des analyses inexactes ou inédites de sources primaires.
+Pour l'améliorer, ajoutez-en, ou placez des modèles {{Source secondaire souhaitée}} ou {{Source secondaire nécessaire}} sur les passages mal sourcés. (février 2023)
+
+L'IGN est créé par décret le 26 juin 1940 (signé par Albert Lebrun et Philippe Pétain) et succède au Service géographique de l'Armée (SGA), fondé en 1887 et dissous en 1940[4]. Le fonds de cartes anciennes est alors divisé en deux lots : un qui reste à l'Institut et l'autre qui rejoint les archives militaires de Vincennes[5]. Le général Louis Hurault, qui fut à l'origine de ces modifications, est le premier directeur de l'IGN[6]. Il en négocie les statuts et tente, en vain, de récupérer le matériel saisi par les Allemands[6]. Une loi de dix articles est signée le 14 septembre 1940 afin de définir les fonctions de l'IGN[7]. Les statuts sont signés le 8 avril 1941. Ils mettent notamment en place l'École nationale des sciences géographiques afin de former des ingénieurs cartographes[8].
+
+Pendant la Seconde Guerre mondiale, l'IGN fait un usage notoire de faussaires. Les cartographes, compétents en calligraphie, utilisent donc le matériel nécessaire à la production de faux papiers (disponible à l'Institut). Certains ingénieurs de l'IGN étaient en contact avec les services de renseignements alliés basés à Londres. Ils font notamment parvenir clandestinement à Londres un jeu complet de cartes couvrant la France et l'Afrique du Nord afin de remplacer le fonds détruit dans un bombardement. De plus, les agents de l'IGN participent activement à la résistance armée à partir du printemps 1943. Plusieurs agents sont fusillés par les Allemands ou meurent au combat. Entre septembre 1944 et le 8 mai 1945, l'IGN se met au service du gouvernement provisoire et une grande partie de son personnel et de ses moyens se transforment en « Service géographique militaire ». À la fin de la guerre, l'IGN reçoit les remerciements du général Bradley et du général Eisenhower.[réf. souhaitée].
+
+Entre 1945 et 1946, le débat est intense concernant l'avenir de l'IGN, dernière création de la Troisième République[réf. souhaitée]. Un décret est finalement signé le 8 avril 1946. Il confirme l'appartenance de l'IGN au ministère des Travaux publics et met en place la « Section géographique de l'état-major de l'Armée », chargé de répondre aux besoins militaires[9].
+
+En 1947, l'IGN reçoit la mission de couvrir l'ensemble de la France, mais aussi tous les territoires dépendants, comme l'Afrique du Nord, l'Afrique occidentale, Madagascar, les États associés d'Indochine et les départements et territoires d'Outre-Mer. La tâche est considérable avec plus de 12 millions de km2 à couvrir. L'indépendance de ces pays aura pour conséquence la création de services nationaux dans chaque pays (exemples : DTGC au Sénégal, IGN-N au Niger)[10].
+
+L'IGN amorce alors une période de coopération active avec la plupart de ces organismes en mettant à leur disposition des ingénieurs de l'IGN et en recevant à l'ENSG des étudiants destinés à devenir les cadres des services cartographiques de pays devenus pleinement indépendants. La tenue à jour des fonds cartographiques de ces pays francophones est aussi effectuée dans le cadre de ces coopérations[11].
+
+L'activité de l'IGN en dehors du territoire français se développe aussi par la conduite de grands chantiers de géodésie(Équateur en 1975[12], Libye en 1979[13], Arabie saoudite en 1981), de cartographie (Arabie saoudite, Burundi, Sénégal, Mali, Côte d'Ivoire, Togo, Bénin, etc.). 
